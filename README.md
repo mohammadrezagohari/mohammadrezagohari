@@ -143,9 +143,6 @@ maintainable code and fostering a collaborative team environment.</p>
 
 </p>
 
-<a href="https://github.com/mohammadrezagohari" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=mohammadrezagohari&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
-</a>
 
 <h2>📪 Contact me</h2>
 <p>
