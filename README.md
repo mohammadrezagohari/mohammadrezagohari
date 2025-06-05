@@ -5,7 +5,7 @@
 
 <h1>Hi 👋, I'm Mohammadreza Gohari as full-stack developer focus on frontend</h1>
 
-<p> Dynamic and results-driven Senior Frontend Developer with over 10 years of comprehensive 
+<p> Dynamic and results-driven Senior Full-Stack Developer with over 10 years of comprehensive 
 experience in software development, specializing in JavaScript and React. Proven expertise in crafting 
 responsive, user-centric web applications that enhance user experience and drive engagement. Adept at 
 collaborating with cross-functional teams to translate business requirements into technical solutions, 
