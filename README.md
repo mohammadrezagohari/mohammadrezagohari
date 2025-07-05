@@ -3,10 +3,10 @@
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadrezagohari&count_private=true&theme=radical" />
 </a>
 
-<h1>Hi 👋, I'm Mohammadreza Gohari as full-stack developer focus on frontend</h1>
+<h1>Hi 👋, I'm Mohammadreza Gohari as full-stack developer</h1>
 
 <p> Dynamic and results-driven Senior Full-Stack Developer with over 10 years of comprehensive 
-experience in software development, specializing in JavaScript and React. Proven expertise in crafting 
+experience in software development, specializing in PHP and JavaScript. Proven expertise in crafting 
 responsive, user-centric web applications that enhance user experience and drive engagement. Adept at 
 collaborating with cross-functional teams to translate business requirements into technical solutions, 
 leveraging a strong background in PHP Laravel and ASP.NET to inform frontend development practices. 
