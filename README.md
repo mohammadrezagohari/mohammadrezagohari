@@ -3,16 +3,37 @@
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadrezagohari&count_private=true&theme=radical" />
 </a>
 
-<h1>Hi 👋, I'm Mohammadreza Gohari as full-stack developer</h1>
+# Hi, I'm Mohammadreza Gohari
 
-<p> Dynamic and results-driven Senior Full-Stack Developer with over 10 years of comprehensive 
-experience in software development, specializing in PHP and JavaScript. Proven expertise in crafting 
-responsive, user-centric web applications that enhance user experience and drive engagement. Adept at 
-collaborating with cross-functional teams to translate business requirements into technical solutions, 
-leveraging a strong background in PHP Laravel and ASP.NET to inform frontend development practices. 
-Passionate about staying current with industry trends and emerging technologies to continuously 
-improve development processes and deliver innovative solutions. Committed to writing clean, 
-maintainable code and fostering a collaborative team environment.</p>
+Senior Backend PHP/Laravel Engineer focused on building scalable backend systems, REST APIs, data models, caching layers, queues, and maintainable Laravel applications.
+
+I have 9+ years of professional software development experience, with strong hands-on experience in PHP, Laravel, MySQL/PostgreSQL, Redis, Docker, Linux, REST API design, OpenAPI/Swagger, SQL optimization, backend refactoring, testing, and production troubleshooting.
+
+## Backend Focus
+
+* PHP 8.x, Laravel, REST API Design, API Versioning
+* MySQL, PostgreSQL, SQL Optimization, Indexing Strategy
+* Redis caching, queues, key-value storage
+* Docker, Linux, NGINX-ready development workflows
+* Clean Code, SOLID, Service/Repository Pattern, Modular Monolith
+* PHPStan/Larastan, Laravel Pint, PHPUnit, API testing
+* OpenAPI/Swagger documentation
+* Backend observability, logging, debugging, and performance tuning
+
+## Featured Backend Work
+
+### Monitorban Backend
+
+A modular Laravel 12 API for server-room monitoring, sensor readings, alert thresholds, company-level access control, JWT authentication, RBAC, Docker, and OpenAPI documentation.
+
+### Laravel Backend Architecture Samples
+
+Examples of clean Laravel backend structure using service layers, repositories, DTOs, validation, tests, static analysis, and API documentation.
+
+## Current Direction
+
+I am focused on Senior Backend Engineering roles where I can own backend architecture, improve code quality, optimize database performance, mentor backend developers, and help define backend engineering standards.
+
 
 <h2>🛠 Skills</h2>
 <p>
