@@ -1,6 +1,6 @@
 
 <a href="https://github.com/mohammadrezagohari" target="_blank">
-<img height="200" align="center" src="https://avatars.githubusercontent.com/u/45491737?v=4" />
+<img height="200" align="center" src="https://avatars.githubusercontent.com/u/45491737?v=4" style="border-radius:'50%';" />
 </a>
 
 # Hi, I'm Mohammadreza Gohari
