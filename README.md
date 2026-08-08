@@ -1,6 +1,6 @@
 
 <a href="https://github.com/mohammadrezagohari" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadrezagohari&count_private=true&theme=radical" />
+<img height="200" align="center" src="https://avatars.githubusercontent.com/u/45491737?v=4" />
 </a>
 
 # Hi, I'm Mohammadreza Gohari
